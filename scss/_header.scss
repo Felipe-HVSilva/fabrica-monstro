@@ -1,0 +1,113 @@
+header {
+  padding-top: 7.2rem;
+  overflow: hidden;
+  border-bottom: 2px solid $primary;
+  .container {
+    display: flex;
+    align-items: center;
+  }
+
+  .text {
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      color: #fff;
+      span {
+        font-weight: 600;
+        font-size: 14.53px;
+        line-height: 18px;
+        text-align: center;
+        color: #ffffff;
+
+        strong {
+          display: block;
+          text-align: center;
+          font-weight: 700;
+          font-size: 30.48px;
+          line-height: 100%;
+
+          color: $primary;
+        }
+      }
+    }
+    .info {
+      margin-top: 32px;
+      h1 {
+        width: 100%;
+        max-width: 640px;
+        font-weight: 800;
+        font-size: 40px;
+        line-height: 49px;
+        color: $white;
+        margin-bottom: 1.2rem;
+
+        span {
+          color: $primary;
+        }
+      }
+      p {
+        width: 100%;
+        max-width: 49.5rem;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        color: $white;
+        margin-bottom: 40px;
+      }
+      a {
+        background-color: $secondary;
+        padding: 15px 78px;
+        border-radius: 4px;
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 20px;
+
+        text-transform: uppercase;
+
+        color: $white;
+      }
+    }
+  }
+
+  .image {
+    max-width: 795px;
+    height: 645px;
+
+    position: relative;
+
+    .left-light {
+      position: absolute;
+      max-width: 328px;
+      height: 328px;
+      filter: blur(139px);
+      top: 206px;
+      left: -18px;
+      z-index: 99;
+      border-radius: 5px solid #fff;
+    }
+
+    .right-light {
+      position: absolute;
+      max-width: 240px;
+      height: 240px;
+      border-radius: 50%;
+      bottom: 0px;
+      right: 73px;
+      filter: blur(139px);
+
+      z-index: 100;
+    }
+
+    .front-img {
+      position: absolute;
+      top: 22px;
+      left: 80px;
+      z-index: 3;
+    }
+    .back-img {
+      z-index: 2;
+      position: relative;
+    }
+  }
+}
