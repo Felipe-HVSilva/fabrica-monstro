@@ -27,7 +27,7 @@ Um site para uma academia, totalmente responsivo
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/YQtNSfvAY36ch94ueKxhD0/F%C3%A1brica-de-Monstros?node-id=3%3A10&t=s555rq1mJv49wKG4-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo, feito pelo Designer(https://www.linkedin.com/in/jonas-nunes-a30b57138/).
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/YQtNSfvAY36ch94ueKxhD0/F%C3%A1brica-de-Monstros?node-id=3%3A10&t=s555rq1mJv49wKG4-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo, feito pelo [Designer](https://www.linkedin.com/in/jonas-nunes-a30b57138/).
 
 ## :memo: Licença
 
